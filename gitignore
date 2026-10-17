@@ -6,7 +6,7 @@ __pycache__/
 venv/
 .pytest_cache/
 
-# Gegenereerde rapporten bevatten KLANTDATA — nooit committen
+# Gegenereerde rapporten bevatten KLANTDATA
 rapport.html
 rapport.md
 bevindingen.csv
