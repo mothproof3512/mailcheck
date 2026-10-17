@@ -1,0 +1,8 @@
+# Verplicht voor de tool zelf:
+dnspython>=2.4
+
+# Optioneel:
+#   idna      -> correcte verwerking van internationale (IDN) domeinnamen
+#   pyyaml    -> alleen nodig voor test_rfc7208.py (officiële RFC 7208-testsuite)
+# idna>=3.4
+# pyyaml>=6.0

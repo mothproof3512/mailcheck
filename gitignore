@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Gegenereerde rapporten bevatten KLANTDATA — nooit committen
+rapport.html
+rapport.md
+bevindingen.csv
+resultaat.json
+*.report.html
+*.report.md
+
+# Optioneel: de officiële RFC 7208-testdata (extern onderhouden, niet herdistribueren)
+rfc7208-tests.yml
+rfc7208-tests.yaml
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
